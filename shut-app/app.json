@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "test-react",
-    "slug": "test-react",
+    "name": "shut-app",
+    "slug": "shut-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Initial publish from web.",
+    "githubUrl": "https://github.com/xmione/React-Native/tree/master/shut-app/publish"
   }
 }

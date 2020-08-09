@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "356234762218",
+    "firebase_url": "https://socialbase-78cdb.firebaseio.com",
+    "project_id": "socialbase-78cdb",
+    "storage_bucket": "socialbase-78cdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356234762218:android:3bc5bff48bf29248fc8493",
+        "android_client_info": {
+          "package_name": "com.sscs.socialbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356234762218-fh9euq79kvkjve6acgphn1iri261a6tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEKxJClWVbdJvtadS6uHHmBml8JRVRKsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356234762218-fh9euq79kvkjve6acgphn1iri261a6tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

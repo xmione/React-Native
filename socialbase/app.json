@@ -1,0 +1,16 @@
+{
+  "name": "socialbase",
+  "displayName": "socialbase",
+  "expo": {
+    "name": "socialbase",
+    "slug": "socialbase",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.sscs.socialbase",
+      "googleServicesFile": "./google-services.json"
+    }
+  }
+}
